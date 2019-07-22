@@ -40,7 +40,7 @@ button {
 .hint {
   margin-top: 16px;
   opacity: 0;
-  transition: .3s opacity ease;
+  transition: .5s opacity ease;
 }
 
 .hint.active {
